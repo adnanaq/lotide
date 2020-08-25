@@ -1,0 +1,26 @@
+{
+  "name": "@adnan.aq/lotide",
+  "version": "1.0.0",
+  "description": "Lotide functions",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamb0yDani/lotide.git"
+  },
+  "author": "Adnan. A <adnan_aq@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamb0yDani/lotide/issues"
+  },
+  "homepage": "https://github.com/dreamb0yDani/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1"
+  }
+}
